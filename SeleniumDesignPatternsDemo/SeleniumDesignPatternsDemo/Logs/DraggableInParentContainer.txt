@@ -1,0 +1,1 @@
+SeleniumDesignPatternsDemo.ToolsQATests.DraggableInParentContainer        D:\qa 2017\SeleniumDesignPatternsDemo2\SeleniumDesignPatternsDemo\SeleniumDesignPatternsDemo\bin\Debug            0
