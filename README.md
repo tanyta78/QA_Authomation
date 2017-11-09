@@ -57,7 +57,7 @@ Tatyana Milanova
         <p>Service testing</p>
         </td>
         <td colspan="2" width="50%">
-        <p></p>
+        <p><a title="Team Project" href="https://github.com/SoftUniHomework/TeamWorkInitialProject" target="_blank">Team Project</a></p>
         </td>
         </tr>
         <tr>
